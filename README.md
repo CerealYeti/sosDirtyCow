@@ -1,4 +1,4 @@
-https://xanaphage.github.io/sosIsolatedNetwork/
+#https://xanaphage.github.io/sosIsolatedNetwork/
 
 
 #SOS ISOLATED NETWORK JOURNAL
