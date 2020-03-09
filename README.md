@@ -1,7 +1,6 @@
-#https://xanaphage.github.io/sosIsolatedNetwork/
+https://xanaphage.github.io/sosIsolatedNetwork/
 
 
-#SOS ISOLATED NETWORK JOURNAL
 ## WINTER QUARTER
 ### Week 1
 Spent the week just trying to connect our laptops to the box and figure out what ethernet plug-ins matched to which VLan's. Couldn't get our computers to talk over the network though.
