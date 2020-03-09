@@ -1,4 +1,6 @@
 https://xanaphage.github.io/sosIsolatedNetwork/
+
+
 #SOS ISOLATED NETWORK JOURNAL
 ## WINTER QUARTER
 ### Week 1
