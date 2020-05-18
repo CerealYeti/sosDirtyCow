@@ -1,2 +1,3 @@
 name: Lurida the Isolated Network Cart
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
