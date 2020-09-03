@@ -1,4 +1,4 @@
-https://xanaphage.github.io/sosIsolatedNetwork/
+https://cerealyeti.github.io/sosDirtyCow/
 
 
 ## WINTER QUARTER
